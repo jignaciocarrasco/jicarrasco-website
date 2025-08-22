@@ -106,7 +106,7 @@ enableEmoji = true
   [[params.social]]
   icon      = "building-columns"   
   icon_pack = "fas"                
-  name      = "University of Oxford"
+  name      = "My Webpage at COMPAS"
   url       = "https://www.compas.ox.ac.uk/people/jose-ignacio-carrasco"   # <-- replace with your page
   
   [[params.social]]
