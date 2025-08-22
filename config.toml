@@ -1,7 +1,7 @@
 baseURL = "https://www.example.org/"
 theme = "hugo-apero"
 languageCode = "en"
-title = "Hugo Apéro"
+title = ""
 author = "Alison Hill"
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
@@ -29,11 +29,11 @@ enableEmoji = true
     style = "github"
     
 [params]
-  orgName = "RStudio"
-  orgLocal = "Anywhere"
+  orgName = "Jose Ignacio Carrasco"
+  orgLocal = "Oxford, UK"
   description = "A modern, beautiful, and easily configurable blog theme for Hugo."
   favicon = "/img/favicon.ico"
-  logo = "/img/blogophonic-mark-dark.png"
+  logo = ""
   mainSections = ["blog", "project", "talk"]
   navallcaps = true
   # show/hide social icons in site header & footer
@@ -104,8 +104,8 @@ enableEmoji = true
   # Icon pack "fas" includes solid icons, see: https://fontawesome.com/icons?d=gallery&s=solid&m=free
   # Icon pack "far" includes regular icons, see: https://fontawesome.com/icons?d=gallery&s=regular&m=free
   [[params.social]]
-  icon      = "building-columns"   # FA6/7 name (preferred)
-  icon_pack = "fas"                # Font Awesome Solid
+  icon      = "building-columns"   
+  icon_pack = "fas"                
   name      = "University of Oxford"
   url       = "https://www.compas.ox.ac.uk/people/jose-ignacio-carrasco"   # <-- replace with your page
   

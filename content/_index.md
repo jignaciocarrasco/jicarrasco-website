@@ -1,6 +1,6 @@
 ---
 title: "Jose Ignacio Carrasco"
-subtitle: "Demography, social development & migration research"
+subtitle: "Postdoctoral Researcher - University of Oxford"
 description: |
   I am a Postdoctoral Researcher at the Centre on Migration, Policy and Society (COMPAS). My research examines social development and migration, with a focus on developing countries. I employ a range of quantitative and computational methods to inform both research and teaching.
 
