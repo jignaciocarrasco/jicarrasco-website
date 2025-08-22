@@ -2,9 +2,9 @@
 title: "Jose Ignacio Carrasco"
 subtitle: "Postdoctoral Researcher - University of Oxford"
 description: |
-  I am a Postdoctoral Researcher at the Centre on Migration, Policy and Society (COMPAS). My research examines social development and migration, with a focus on developing countries. I employ a range of quantitative and computational methods to inform both research and teaching.
+  I am a Postdoctoral Researcher at the Centre on Migration, Policy and Society ([COMPAS](https://www.compas.ox.ac.uk/)). My research examines social development and migration, with a focus on developing countries. I employ a range of quantitative and computational methods to inform both research and teaching.
 
-  <strong>Email:</strong> <a href="mailto:joseignacio.carrasco@compas.ox.ac.uk">joseignacio.carrasco@compas.ox.ac.uk</a>
+  **Email:** [joseignacio.carrasco@compas.ox.ac.uk](mailto:joseignacio.carrasco@compas.ox.ac.uk)
 
 
 images:
